@@ -12,7 +12,7 @@ categories: [networks, dataviz]
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 
 <!-- Load styling for the slider -->
-<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
 <!-- Format the UI elements -->
 <style type="text/css">
 	#slider {margin:auto; width:80%; display:block}
@@ -75,7 +75,7 @@ The drop-down selections allow you to switch plays but also to switch the way th
 
 Some rudimentary crowdsourcing would not be out of place here to help me gather more data for the status and gender categories. To this end, I've put up a simple spreadsheet on Google Docs(edit: this is no longer active) that has four columns: the first two are uneditable but I'd appreciate some help gathering information for the last two columns which represent gender and status. The gender column should be self explanatory and I've already managed to mine enough data from Wikipedia to mostly fill the entries in it, although there are still many slippages and mistakes that need correcting. But it is the final column where I need most help. So if you're reading a play and wouldn't mind filling in some information on it, I'd really appreciate it. Every so often, I'll update the data-files with new information, and hopefully we'll eventually have enough information to cover all characters.
 
-<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="{{ base.url | prepend: site.url }}/assets/2022-06-14-plot-networks/plot-networks.js"> </script>
 
 
