@@ -1,0 +1,393 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "NA", 
+            "id": "IRIS", 
+            "g": "F", 
+            "nw": 6
+        }, 
+        {
+            "s": "6", 
+            "id": "Mariners", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "CERES", 
+            "g": "F", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "JUNO", 
+            "g": "F", 
+            "nw": 1
+        }, 
+        {
+            "s": "1", 
+            "id": "ADRIAN", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "0", 
+            "id": "ALONSO", 
+            "g": "M", 
+            "nw": 16
+        }, 
+        {
+            "s": "6", 
+            "id": "TRINCULO", 
+            "g": "M", 
+            "nw": 15
+        }, 
+        {
+            "s": "3", 
+            "id": "GONZALO", 
+            "g": "M", 
+            "nw": 23
+        }, 
+        {
+            "s": "1", 
+            "id": "ANTONIO", 
+            "g": "M", 
+            "nw": 21
+        }, 
+        {
+            "s": "1", 
+            "id": "PROSPERO", 
+            "g": "M", 
+            "nw": 100
+        }, 
+        {
+            "s": "1", 
+            "id": "FRANCISCO", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "3", 
+            "id": "Master", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "6", 
+            "id": "STEPHANO", 
+            "g": "M", 
+            "nw": 24
+        }, 
+        {
+            "s": "1", 
+            "id": "MIRANDA", 
+            "g": "F", 
+            "nw": 20
+        }, 
+        {
+            "s": "NA", 
+            "id": "Boatswain", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "0", 
+            "id": "FERDINAND", 
+            "g": "M", 
+            "nw": 21
+        }, 
+        {
+            "s": "0", 
+            "id": "SEBASTIAN", 
+            "g": "M", 
+            "nw": 17
+        }, 
+        {
+            "s": "6", 
+            "id": "CALIBAN", 
+            "g": "M", 
+            "nw": 26
+        }, 
+        {
+            "s": "NA", 
+            "id": "ARIEL", 
+            "g": "NA", 
+            "nw": 24
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 8, 
+            "target": 9
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 2
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 3
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 3
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 7
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 8
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 5, 
+            "ew": 3, 
+            "target": 18
+        }, 
+        {
+            "source": 5, 
+            "ew": 7, 
+            "target": 7
+        }, 
+        {
+            "source": 5, 
+            "ew": 1, 
+            "target": 8
+        }, 
+        {
+            "source": 5, 
+            "ew": 28, 
+            "target": 9
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 5, 
+            "ew": 1, 
+            "target": 15
+        }, 
+        {
+            "source": 5, 
+            "ew": 3, 
+            "target": 16
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 6
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 6, 
+            "ew": 8, 
+            "target": 17
+        }, 
+        {
+            "source": 6, 
+            "ew": 12, 
+            "target": 12
+        }, 
+        {
+            "source": 7, 
+            "ew": 7, 
+            "target": 8
+        }, 
+        {
+            "source": 7, 
+            "ew": 7, 
+            "target": 9
+        }, 
+        {
+            "source": 7, 
+            "ew": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 7, 
+            "ew": 5, 
+            "target": 16
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 8, 
+            "ew": 3, 
+            "target": 9
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 8, 
+            "ew": 17, 
+            "target": 16
+        }, 
+        {
+            "source": 9, 
+            "ew": 3, 
+            "target": 9
+        }, 
+        {
+            "source": 9, 
+            "ew": 100, 
+            "target": 18
+        }, 
+        {
+            "source": 9, 
+            "ew": 26, 
+            "target": 17
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 9, 
+            "ew": 88, 
+            "target": 13
+        }, 
+        {
+            "source": 9, 
+            "ew": 35, 
+            "target": 15
+        }, 
+        {
+            "source": 9, 
+            "ew": 5, 
+            "target": 16
+        }, 
+        {
+            "source": 9, 
+            "ew": 1, 
+            "target": 12
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 12, 
+            "ew": 19, 
+            "target": 17
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 13, 
+            "ew": 11, 
+            "target": 15
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 17, 
+            "ew": 1, 
+            "target": 18
+        }
+    ], 
+    "multigraph": false
+}

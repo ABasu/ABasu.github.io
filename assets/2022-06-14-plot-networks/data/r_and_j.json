@@ -1,0 +1,624 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "NA", 
+            "id": "Second Capulet", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "6", 
+            "id": "SAMPSON", 
+            "g": "M", 
+            "nw": 5
+        }, 
+        {
+            "s": "1", 
+            "id": "TYBALT", 
+            "g": "M", 
+            "nw": 5
+        }, 
+        {
+            "s": "1", 
+            "id": "LADY CAPULET", 
+            "g": "M", 
+            "nw": 18
+        }, 
+        {
+            "s": "6", 
+            "id": "Second Servant", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "1", 
+            "id": "MONTAGUE", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "6", 
+            "id": "Nurse", 
+            "g": "F", 
+            "nw": 44
+        }, 
+        {
+            "s": "5", 
+            "id": "First Watchman", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "6", 
+            "id": "NURSE", 
+            "g": "F", 
+            "nw": 1
+        }, 
+        {
+            "s": "1", 
+            "id": "CAPULET", 
+            "g": "M", 
+            "nw": 44
+        }, 
+        {
+            "s": "7", 
+            "id": "Second Musician", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "5", 
+            "id": "Second Watchman", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "7", 
+            "id": "Musician", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "1", 
+            "id": "ROMEO", 
+            "g": "M", 
+            "nw": 100
+        }, 
+        {
+            "s": "1", 
+            "id": "PARIS", 
+            "g": "M", 
+            "nw": 11
+        }, 
+        {
+            "s": "6", 
+            "id": "PETER", 
+            "g": "M", 
+            "nw": 5
+        }, 
+        {
+            "s": "1", 
+            "id": "LADY MONTAGUE", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "1", 
+            "id": "MERCUTIO", 
+            "g": "M", 
+            "nw": 42
+        }, 
+        {
+            "s": "3", 
+            "id": "First Citizen", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "6", 
+            "id": "Servant", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "FRIAR JOHN", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "FRIAR LAURENCE", 
+            "g": "M", 
+            "nw": 57
+        }, 
+        {
+            "s": "5", 
+            "id": "Third Watchman", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "7", 
+            "id": "First Musician", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "7", 
+            "id": "Third Musician", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "6", 
+            "id": "GREGORY", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "6", 
+            "id": "ABRAHAM", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "0", 
+            "id": "PRINCE", 
+            "g": "M", 
+            "nw": 12
+        }, 
+        {
+            "s": "1", 
+            "id": "JULIET", 
+            "g": "F", 
+            "nw": 88
+        }, 
+        {
+            "s": "6", 
+            "id": "First Servant", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "4", 
+            "id": "PAGE", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "4", 
+            "id": "BALTHASAR", 
+            "g": "M", 
+            "nw": 5
+        }, 
+        {
+            "s": "7", 
+            "id": "Apothecary", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "1", 
+            "id": "LADY  CAPULET", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "1", 
+            "id": "BENVOLIO", 
+            "g": "M", 
+            "nw": 26
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 2, 
+            "ew": 3, 
+            "target": 9
+        }, 
+        {
+            "source": 2, 
+            "ew": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 2, 
+            "ew": 5, 
+            "target": 13
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 3, 
+            "ew": 13, 
+            "target": 6
+        }, 
+        {
+            "source": 3, 
+            "ew": 9, 
+            "target": 9
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 27
+        }, 
+        {
+            "source": 3, 
+            "ew": 1, 
+            "target": 34
+        }, 
+        {
+            "source": 3, 
+            "ew": 31, 
+            "target": 28
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 29
+        }, 
+        {
+            "source": 4, 
+            "ew": 3, 
+            "target": 9
+        }, 
+        {
+            "source": 5, 
+            "ew": 2, 
+            "target": 34
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 5, 
+            "ew": 1, 
+            "target": 27
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 6, 
+            "ew": 2, 
+            "target": 17
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 6, 
+            "ew": 3, 
+            "target": 21
+        }, 
+        {
+            "source": 6, 
+            "ew": 25, 
+            "target": 13
+        }, 
+        {
+            "source": 6, 
+            "ew": 4, 
+            "target": 9
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 6, 
+            "ew": 1, 
+            "target": 15
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 6, 
+            "ew": 68, 
+            "target": 28
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 11
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 27
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 28
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 30
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 8, 
+            "ew": 2, 
+            "target": 13
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 29
+        }, 
+        {
+            "source": 9, 
+            "ew": 7, 
+            "target": 14
+        }, 
+        {
+            "source": 9, 
+            "ew": 8, 
+            "target": 21
+        }, 
+        {
+            "source": 9, 
+            "ew": 3, 
+            "target": 13
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 9, 
+            "ew": 1, 
+            "target": 33
+        }, 
+        {
+            "source": 9, 
+            "ew": 1, 
+            "target": 27
+        }, 
+        {
+            "source": 9, 
+            "ew": 13, 
+            "target": 28
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 13, 
+            "ew": 53, 
+            "target": 17
+        }, 
+        {
+            "source": 13, 
+            "ew": 7, 
+            "target": 19
+        }, 
+        {
+            "source": 13, 
+            "ew": 73, 
+            "target": 21
+        }, 
+        {
+            "source": 13, 
+            "ew": 0, 
+            "target": 30
+        }, 
+        {
+            "source": 13, 
+            "ew": 11, 
+            "target": 31
+        }, 
+        {
+            "source": 13, 
+            "ew": 6, 
+            "target": 32
+        }, 
+        {
+            "source": 13, 
+            "ew": 20, 
+            "target": 14
+        }, 
+        {
+            "source": 13, 
+            "ew": 40, 
+            "target": 34
+        }, 
+        {
+            "source": 13, 
+            "ew": 100, 
+            "target": 28
+        }, 
+        {
+            "source": 14, 
+            "ew": 3, 
+            "target": 21
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 30
+        }, 
+        {
+            "source": 14, 
+            "ew": 4, 
+            "target": 28
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 27
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 17, 
+            "ew": 20, 
+            "target": 34
+        }, 
+        {
+            "source": 18, 
+            "ew": 0, 
+            "target": 27
+        }, 
+        {
+            "source": 18, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 19, 
+            "ew": 0, 
+            "target": 28
+        }, 
+        {
+            "source": 19, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 20, 
+            "ew": 3, 
+            "target": 21
+        }, 
+        {
+            "source": 21, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 21, 
+            "ew": 3, 
+            "target": 31
+        }, 
+        {
+            "source": 21, 
+            "ew": 7, 
+            "target": 27
+        }, 
+        {
+            "source": 21, 
+            "ew": 34, 
+            "target": 28
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 27, 
+            "ew": 0, 
+            "target": 31
+        }, 
+        {
+            "source": 27, 
+            "ew": 0, 
+            "target": 30
+        }, 
+        {
+            "source": 27, 
+            "ew": 2, 
+            "target": 34
+        }, 
+        {
+            "source": 28, 
+            "ew": 0, 
+            "target": 30
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,1082 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "NA", 
+            "id": "BASSET", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "NA", 
+            "id": "BEDFORD", 
+            "g": "M", 
+            "nw": 18
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Soldier", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "ALENCON", 
+            "g": "M", 
+            "nw": 12
+        }, 
+        {
+            "s": "NA", 
+            "id": "LUCY", 
+            "g": "F", 
+            "nw": 18
+        }, 
+        {
+            "s": "NA", 
+            "id": "TALBOT", 
+            "g": "M", 
+            "nw": 100
+        }, 
+        {
+            "s": "NA", 
+            "id": "MARGARET", 
+            "g": "F", 
+            "nw": 8
+        }, 
+        {
+            "s": "NA", 
+            "id": "VERNON", 
+            "g": "M", 
+            "nw": 7
+        }, 
+        {
+            "s": "NA", 
+            "id": "Messenger", 
+            "g": "M", 
+            "nw": 23
+        }, 
+        {
+            "s": "NA", 
+            "id": "Sergeant", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "GLANSDALE", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "WARWICK", 
+            "g": "M", 
+            "nw": 17
+        }, 
+        {
+            "s": "NA", 
+            "id": "COUNTESS OF AUVERGNE", 
+            "g": "M", 
+            "nw": 11
+        }, 
+        {
+            "s": "NA", 
+            "id": "General", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "NA", 
+            "id": "FASTOLFE", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Legate", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Porter", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Shepherd", 
+            "g": "M", 
+            "nw": 5
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Gaoler", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "YORK", 
+            "g": "M", 
+            "nw": 22
+        }, 
+        {
+            "s": "NA", 
+            "id": "Master-Gunner", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "GARGRAVE", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Sentinels", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "CHARLES", 
+            "g": "M", 
+            "nw": 32
+        }, 
+        {
+            "s": "NA", 
+            "id": "Watch", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "BURGUNDY", 
+            "g": "M", 
+            "nw": 10
+        }, 
+        {
+            "s": "NA", 
+            "id": "Servant", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Scout", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "BASTARD OF ORLEANS", 
+            "g": "M", 
+            "nw": 7
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Warder", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "SOMERSET", 
+            "g": "M", 
+            "nw": 15
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Warder", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "EXETER", 
+            "g": "M", 
+            "nw": 14
+        }, 
+        {
+            "s": "NA", 
+            "id": "JOHN TALBOT", 
+            "g": "M", 
+            "nw": 11
+        }, 
+        {
+            "s": "NA", 
+            "id": "Boy", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Serving-Men", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "REIGNIER", 
+            "g": "M", 
+            "nw": 14
+        }, 
+        {
+            "s": "NA", 
+            "id": "CARDINAL OF WINCHESTER", 
+            "g": "M", 
+            "nw": 7
+        }, 
+        {
+            "s": "NA", 
+            "id": "Soldier", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Officer", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Serving-man", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "BISHOP OF WINCHESTER", 
+            "g": "M", 
+            "nw": 16
+        }, 
+        {
+            "s": "NA", 
+            "id": "Third Serving-man", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Serving-man", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "ALL", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Sentinel", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "RICHARD PLANTAGENET", 
+            "g": "M", 
+            "nw": 22
+        }, 
+        {
+            "s": "NA", 
+            "id": "KING HENRY VI", 
+            "g": "M", 
+            "nw": 43
+        }, 
+        {
+            "s": "NA", 
+            "id": "JOAN LA PUCELLE", 
+            "g": "M", 
+            "nw": 62
+        }, 
+        {
+            "s": "NA", 
+            "id": "MORTIMER", 
+            "g": "M", 
+            "nw": 21
+        }, 
+        {
+            "s": "NA", 
+            "id": "SUFFOLK", 
+            "g": "M", 
+            "nw": 42
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Serving-Man", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "SALISBURY", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "Lawyer", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "WOODVILE", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Captain", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Mayor", 
+            "g": "M", 
+            "nw": 5
+        }, 
+        {
+            "s": "NA", 
+            "id": "GLOUCESTER", 
+            "g": "M", 
+            "nw": 45
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 0, 
+            "ew": 4, 
+            "target": 57
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 0, 
+            "ew": 6, 
+            "target": 47
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 55
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 1, 
+            "ew": 1, 
+            "target": 48
+        }, 
+        {
+            "source": 1, 
+            "ew": 5, 
+            "target": 25
+        }, 
+        {
+            "source": 1, 
+            "ew": 55, 
+            "target": 5
+        }, 
+        {
+            "source": 1, 
+            "ew": 15, 
+            "target": 8
+        }, 
+        {
+            "source": 1, 
+            "ew": 18, 
+            "target": 57
+        }, 
+        {
+            "source": 1, 
+            "ew": 2, 
+            "target": 32
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 2, 
+            "ew": 1, 
+            "target": 48
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 3, 
+            "ew": 17, 
+            "target": 23
+        }, 
+        {
+            "source": 3, 
+            "ew": 10, 
+            "target": 48
+        }, 
+        {
+            "source": 3, 
+            "ew": 8, 
+            "target": 36
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 37
+        }, 
+        {
+            "source": 3, 
+            "ew": 4, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "ew": 1, 
+            "target": 28
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 11
+        }, 
+        {
+            "source": 4, 
+            "ew": 10, 
+            "target": 30
+        }, 
+        {
+            "source": 4, 
+            "ew": 12, 
+            "target": 23
+        }, 
+        {
+            "source": 4, 
+            "ew": 14, 
+            "target": 48
+        }, 
+        {
+            "source": 4, 
+            "ew": 14, 
+            "target": 19
+        }, 
+        {
+            "source": 5, 
+            "ew": 100, 
+            "target": 33
+        }, 
+        {
+            "source": 5, 
+            "ew": 7, 
+            "target": 45
+        }, 
+        {
+            "source": 5, 
+            "ew": 18, 
+            "target": 47
+        }, 
+        {
+            "source": 5, 
+            "ew": 14, 
+            "target": 26
+        }, 
+        {
+            "source": 5, 
+            "ew": 26, 
+            "target": 21
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 5, 
+            "ew": 2, 
+            "target": 23
+        }, 
+        {
+            "source": 5, 
+            "ew": 98, 
+            "target": 48
+        }, 
+        {
+            "source": 5, 
+            "ew": 5, 
+            "target": 36
+        }, 
+        {
+            "source": 5, 
+            "ew": 40, 
+            "target": 25
+        }, 
+        {
+            "source": 5, 
+            "ew": 1, 
+            "target": 7
+        }, 
+        {
+            "source": 5, 
+            "ew": 41, 
+            "target": 13
+        }, 
+        {
+            "source": 5, 
+            "ew": 24, 
+            "target": 8
+        }, 
+        {
+            "source": 5, 
+            "ew": 38, 
+            "target": 52
+        }, 
+        {
+            "source": 5, 
+            "ew": 1, 
+            "target": 10
+        }, 
+        {
+            "source": 5, 
+            "ew": 58, 
+            "target": 12
+        }, 
+        {
+            "source": 5, 
+            "ew": 1, 
+            "target": 55
+        }, 
+        {
+            "source": 5, 
+            "ew": 16, 
+            "target": 14
+        }, 
+        {
+            "source": 5, 
+            "ew": 20, 
+            "target": 57
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 36
+        }, 
+        {
+            "source": 6, 
+            "ew": 49, 
+            "target": 50
+        }, 
+        {
+            "source": 7, 
+            "ew": 2, 
+            "target": 47
+        }, 
+        {
+            "source": 7, 
+            "ew": 1, 
+            "target": 46
+        }, 
+        {
+            "source": 7, 
+            "ew": 1, 
+            "target": 50
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 53
+        }, 
+        {
+            "source": 7, 
+            "ew": 1, 
+            "target": 30
+        }, 
+        {
+            "source": 8, 
+            "ew": 2, 
+            "target": 25
+        }, 
+        {
+            "source": 8, 
+            "ew": 6, 
+            "target": 19
+        }, 
+        {
+            "source": 8, 
+            "ew": 12, 
+            "target": 41
+        }, 
+        {
+            "source": 8, 
+            "ew": 5, 
+            "target": 12
+        }, 
+        {
+            "source": 8, 
+            "ew": 7, 
+            "target": 32
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 45
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 21
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 11, 
+            "ew": 3, 
+            "target": 23
+        }, 
+        {
+            "source": 11, 
+            "ew": 8, 
+            "target": 47
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 42
+        }, 
+        {
+            "source": 11, 
+            "ew": 8, 
+            "target": 46
+        }, 
+        {
+            "source": 11, 
+            "ew": 6, 
+            "target": 48
+        }, 
+        {
+            "source": 11, 
+            "ew": 1, 
+            "target": 50
+        }, 
+        {
+            "source": 11, 
+            "ew": 10, 
+            "target": 19
+        }, 
+        {
+            "source": 11, 
+            "ew": 1, 
+            "target": 41
+        }, 
+        {
+            "source": 11, 
+            "ew": 7, 
+            "target": 30
+        }, 
+        {
+            "source": 11, 
+            "ew": 2, 
+            "target": 56
+        }, 
+        {
+            "source": 11, 
+            "ew": 5, 
+            "target": 57
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 55
+        }, 
+        {
+            "source": 14, 
+            "ew": 1, 
+            "target": 57
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 37
+        }, 
+        {
+            "source": 17, 
+            "ew": 12, 
+            "target": 48
+        }, 
+        {
+            "source": 17, 
+            "ew": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 18, 
+            "ew": 3, 
+            "target": 49
+        }, 
+        {
+            "source": 19, 
+            "ew": 1, 
+            "target": 47
+        }, 
+        {
+            "source": 19, 
+            "ew": 9, 
+            "target": 23
+        }, 
+        {
+            "source": 19, 
+            "ew": 38, 
+            "target": 48
+        }, 
+        {
+            "source": 19, 
+            "ew": 3, 
+            "target": 50
+        }, 
+        {
+            "source": 19, 
+            "ew": 1, 
+            "target": 36
+        }, 
+        {
+            "source": 19, 
+            "ew": 2, 
+            "target": 30
+        }, 
+        {
+            "source": 19, 
+            "ew": 8, 
+            "target": 37
+        }, 
+        {
+            "source": 19, 
+            "ew": 4, 
+            "target": 32
+        }, 
+        {
+            "source": 20, 
+            "ew": 1, 
+            "target": 34
+        }, 
+        {
+            "source": 21, 
+            "ew": 0, 
+            "target": 52
+        }, 
+        {
+            "source": 23, 
+            "ew": 1, 
+            "target": 23
+        }, 
+        {
+            "source": 23, 
+            "ew": 72, 
+            "target": 48
+        }, 
+        {
+            "source": 23, 
+            "ew": 2, 
+            "target": 25
+        }, 
+        {
+            "source": 23, 
+            "ew": 12, 
+            "target": 36
+        }, 
+        {
+            "source": 23, 
+            "ew": 1, 
+            "target": 27
+        }, 
+        {
+            "source": 23, 
+            "ew": 12, 
+            "target": 28
+        }, 
+        {
+            "source": 24, 
+            "ew": 2, 
+            "target": 48
+        }, 
+        {
+            "source": 25, 
+            "ew": 37, 
+            "target": 48
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 28
+        }, 
+        {
+            "source": 27, 
+            "ew": 1, 
+            "target": 48
+        }, 
+        {
+            "source": 28, 
+            "ew": 5, 
+            "target": 48
+        }, 
+        {
+            "source": 28, 
+            "ew": 1, 
+            "target": 36
+        }, 
+        {
+            "source": 29, 
+            "ew": 0, 
+            "target": 51
+        }, 
+        {
+            "source": 29, 
+            "ew": 2, 
+            "target": 57
+        }, 
+        {
+            "source": 30, 
+            "ew": 0, 
+            "target": 44
+        }, 
+        {
+            "source": 30, 
+            "ew": 19, 
+            "target": 46
+        }, 
+        {
+            "source": 30, 
+            "ew": 4, 
+            "target": 47
+        }, 
+        {
+            "source": 30, 
+            "ew": 2, 
+            "target": 50
+        }, 
+        {
+            "source": 30, 
+            "ew": 0, 
+            "target": 53
+        }, 
+        {
+            "source": 30, 
+            "ew": 0, 
+            "target": 55
+        }, 
+        {
+            "source": 30, 
+            "ew": 2, 
+            "target": 57
+        }, 
+        {
+            "source": 31, 
+            "ew": 0, 
+            "target": 51
+        }, 
+        {
+            "source": 32, 
+            "ew": 28, 
+            "target": 47
+        }, 
+        {
+            "source": 32, 
+            "ew": 16, 
+            "target": 50
+        }, 
+        {
+            "source": 32, 
+            "ew": 2, 
+            "target": 41
+        }, 
+        {
+            "source": 32, 
+            "ew": 19, 
+            "target": 57
+        }, 
+        {
+            "source": 34, 
+            "ew": 0, 
+            "target": 52
+        }, 
+        {
+            "source": 35, 
+            "ew": 0, 
+            "target": 41
+        }, 
+        {
+            "source": 35, 
+            "ew": 0, 
+            "target": 57
+        }, 
+        {
+            "source": 36, 
+            "ew": 23, 
+            "target": 48
+        }, 
+        {
+            "source": 36, 
+            "ew": 23, 
+            "target": 50
+        }, 
+        {
+            "source": 37, 
+            "ew": 1, 
+            "target": 47
+        }, 
+        {
+            "source": 38, 
+            "ew": 2, 
+            "target": 48
+        }, 
+        {
+            "source": 39, 
+            "ew": 0, 
+            "target": 56
+        }, 
+        {
+            "source": 39, 
+            "ew": 0, 
+            "target": 57
+        }, 
+        {
+            "source": 40, 
+            "ew": 0, 
+            "target": 43
+        }, 
+        {
+            "source": 40, 
+            "ew": 0, 
+            "target": 42
+        }, 
+        {
+            "source": 40, 
+            "ew": 0, 
+            "target": 57
+        }, 
+        {
+            "source": 41, 
+            "ew": 4, 
+            "target": 47
+        }, 
+        {
+            "source": 41, 
+            "ew": 1, 
+            "target": 56
+        }, 
+        {
+            "source": 41, 
+            "ew": 64, 
+            "target": 57
+        }, 
+        {
+            "source": 42, 
+            "ew": 0, 
+            "target": 43
+        }, 
+        {
+            "source": 42, 
+            "ew": 3, 
+            "target": 57
+        }, 
+        {
+            "source": 43, 
+            "ew": 1, 
+            "target": 57
+        }, 
+        {
+            "source": 43, 
+            "ew": 1, 
+            "target": 47
+        }, 
+        {
+            "source": 44, 
+            "ew": 0, 
+            "target": 46
+        }, 
+        {
+            "source": 46, 
+            "ew": 12, 
+            "target": 47
+        }, 
+        {
+            "source": 46, 
+            "ew": 39, 
+            "target": 49
+        }, 
+        {
+            "source": 46, 
+            "ew": 7, 
+            "target": 50
+        }, 
+        {
+            "source": 46, 
+            "ew": 0, 
+            "target": 53
+        }, 
+        {
+            "source": 47, 
+            "ew": 30, 
+            "target": 50
+        }, 
+        {
+            "source": 47, 
+            "ew": 1, 
+            "target": 56
+        }, 
+        {
+            "source": 47, 
+            "ew": 76, 
+            "target": 57
+        }, 
+        {
+            "source": 50, 
+            "ew": 18, 
+            "target": 57
+        }, 
+        {
+            "source": 54, 
+            "ew": 5, 
+            "target": 57
+        }, 
+        {
+            "source": 56, 
+            "ew": 4, 
+            "target": 57
+        }
+    ], 
+    "multigraph": false
+}

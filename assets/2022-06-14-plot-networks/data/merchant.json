@@ -1,0 +1,467 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "1", 
+            "id": "PORTIA", 
+            "g": "F", 
+            "nw": 100
+        }, 
+        {
+            "s": "3", 
+            "id": "SALARINO", 
+            "g": "M", 
+            "nw": 17
+        }, 
+        {
+            "s": "0", 
+            "id": "DUKE", 
+            "g": "M", 
+            "nw": 9
+        }, 
+        {
+            "s": "0", 
+            "id": "ARRAGON", 
+            "g": "M", 
+            "nw": 11
+        }, 
+        {
+            "s": "3", 
+            "id": "ANTONIO", 
+            "g": "M", 
+            "nw": 31
+        }, 
+        {
+            "s": "0", 
+            "id": "MOROCCO", 
+            "g": "M", 
+            "nw": 17
+        }, 
+        {
+            "s": "6", 
+            "id": "LAUNCELOT", 
+            "g": "M", 
+            "nw": 28
+        }, 
+        {
+            "s": "2", 
+            "id": "NERISSA", 
+            "g": "F", 
+            "nw": 14
+        }, 
+        {
+            "s": "NA", 
+            "id": "JESSICA", 
+            "g": "F", 
+            "nw": 14
+        }, 
+        {
+            "s": "4", 
+            "id": "Clerk", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "2", 
+            "id": "GRATIANO", 
+            "g": "M", 
+            "nw": 29
+        }, 
+        {
+            "s": "6", 
+            "id": "GOBBO", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "3", 
+            "id": "SHYLOCK", 
+            "g": "M", 
+            "nw": 60
+        }, 
+        {
+            "s": "6", 
+            "id": "STEPHANO", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "6", 
+            "id": "Servant", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "2", 
+            "id": "LORENZO", 
+            "g": "M", 
+            "nw": 30
+        }, 
+        {
+            "s": "3", 
+            "id": "SALERIO", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "ALL", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "2", 
+            "id": "BASSANIO", 
+            "g": "M", 
+            "nw": 57
+        }, 
+        {
+            "s": "6", 
+            "id": "BALTHASAR", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "3", 
+            "id": "TUBAL", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "6", 
+            "id": "LEONARDO", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "3", 
+            "id": "SALANIO", 
+            "g": "M", 
+            "nw": 9
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 3, 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 0, 
+            "ew": 3, 
+            "target": 8
+        }, 
+        {
+            "source": 0, 
+            "ew": 6, 
+            "target": 14
+        }, 
+        {
+            "source": 0, 
+            "ew": 16, 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "ew": 21, 
+            "target": 10
+        }, 
+        {
+            "source": 0, 
+            "ew": 27, 
+            "target": 5
+        }, 
+        {
+            "source": 0, 
+            "ew": 100, 
+            "target": 18
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 0, 
+            "ew": 17, 
+            "target": 15
+        }, 
+        {
+            "source": 0, 
+            "ew": 12, 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "ew": 44, 
+            "target": 7
+        }, 
+        {
+            "source": 0, 
+            "ew": 40, 
+            "target": 12
+        }, 
+        {
+            "source": 0, 
+            "ew": 1, 
+            "target": 16
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 1, 
+            "ew": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 1, 
+            "ew": 4, 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "ew": 6, 
+            "target": 12
+        }, 
+        {
+            "source": 1, 
+            "ew": 6, 
+            "target": 22
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 2, 
+            "ew": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 2, 
+            "ew": 1, 
+            "target": 18
+        }, 
+        {
+            "source": 2, 
+            "ew": 7, 
+            "target": 12
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 7
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 4, 
+            "ew": 20, 
+            "target": 18
+        }, 
+        {
+            "source": 4, 
+            "ew": 6, 
+            "target": 10
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 4, 
+            "ew": 26, 
+            "target": 12
+        }, 
+        {
+            "source": 6, 
+            "ew": 2, 
+            "target": 8
+        }, 
+        {
+            "source": 6, 
+            "ew": 5, 
+            "target": 18
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 6, 
+            "ew": 8, 
+            "target": 15
+        }, 
+        {
+            "source": 6, 
+            "ew": 6, 
+            "target": 11
+        }, 
+        {
+            "source": 6, 
+            "ew": 5, 
+            "target": 12
+        }, 
+        {
+            "source": 7, 
+            "ew": 3, 
+            "target": 10
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 7, 
+            "ew": 2, 
+            "target": 18
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 8, 
+            "ew": 9, 
+            "target": 15
+        }, 
+        {
+            "source": 8, 
+            "ew": 3, 
+            "target": 12
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 10, 
+            "ew": 3, 
+            "target": 15
+        }, 
+        {
+            "source": 10, 
+            "ew": 11, 
+            "target": 18
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 21
+        }, 
+        {
+            "source": 10, 
+            "ew": 4, 
+            "target": 12
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 12, 
+            "ew": 19, 
+            "target": 18
+        }, 
+        {
+            "source": 12, 
+            "ew": 5, 
+            "target": 20
+        }, 
+        {
+            "source": 12, 
+            "ew": 1, 
+            "target": 22
+        }, 
+        {
+            "source": 13, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 16, 
+            "ew": 2, 
+            "target": 18
+        }, 
+        {
+            "source": 17, 
+            "ew": 4, 
+            "target": 18
+        }, 
+        {
+            "source": 18, 
+            "ew": 0, 
+            "target": 21
+        }, 
+        {
+            "source": 22, 
+            "ew": 0, 
+            "target": 22
+        }
+    ], 
+    "multigraph": false
+}

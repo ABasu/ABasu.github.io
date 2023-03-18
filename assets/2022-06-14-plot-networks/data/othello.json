@@ -1,0 +1,501 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "5", 
+            "id": "RODERIGO", 
+            "g": "M", 
+            "nw": 10
+        }, 
+        {
+            "s": "2", 
+            "id": "Second Gentlemen", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "2", 
+            "id": "Gentleman", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "6", 
+            "id": "Messenger", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "1", 
+            "id": "BRABANTIO", 
+            "g": "M", 
+            "nw": 12
+        }, 
+        {
+            "s": "2", 
+            "id": "Second Senator", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "2", 
+            "id": "Fourth Gentleman", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "2", 
+            "id": "Third Gentleman", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "2", 
+            "id": "First Gentleman", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "1", 
+            "id": "GRATIANO", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "5", 
+            "id": "First Officer", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "2", 
+            "id": "DESDEMONA", 
+            "g": "F", 
+            "nw": 35
+        }, 
+        {
+            "s": "1", 
+            "id": "LODOVICO", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "1", 
+            "id": "DUKE OF VENICE", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "9", 
+            "id": "BIANCA", 
+            "g": "F", 
+            "nw": 3
+        }, 
+        {
+            "s": "6", 
+            "id": "Clown", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "6", 
+            "id": "Herald", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "5", 
+            "id": "CASSIO", 
+            "g": "M", 
+            "nw": 25
+        }, 
+        {
+            "s": "6", 
+            "id": "First Musician", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "2", 
+            "id": "Second Gentleman", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "5", 
+            "id": "IAGO", 
+            "g": "M", 
+            "nw": 100
+        }, 
+        {
+            "s": "NA", 
+            "id": "All", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "1", 
+            "id": "First Senator", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "5", 
+            "id": "Sailor", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "5", 
+            "id": "OTHELLO", 
+            "g": "M", 
+            "nw": 80
+        }, 
+        {
+            "s": "6", 
+            "id": "EMILIA", 
+            "g": "F", 
+            "nw": 22
+        }, 
+        {
+            "s": "3", 
+            "id": "MONTANO", 
+            "g": "M", 
+            "nw": 5
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 38, 
+            "target": 20
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 0, 
+            "ew": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 4, 
+            "ew": 1, 
+            "target": 13
+        }, 
+        {
+            "source": 4, 
+            "ew": 4, 
+            "target": 20
+        }, 
+        {
+            "source": 4, 
+            "ew": 5, 
+            "target": 24
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 11
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 9, 
+            "ew": 2, 
+            "target": 20
+        }, 
+        {
+            "source": 9, 
+            "ew": 3, 
+            "target": 24
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 11, 
+            "ew": 13, 
+            "target": 20
+        }, 
+        {
+            "source": 11, 
+            "ew": 3, 
+            "target": 17
+        }, 
+        {
+            "source": 11, 
+            "ew": 9, 
+            "target": 25
+        }, 
+        {
+            "source": 11, 
+            "ew": 39, 
+            "target": 24
+        }, 
+        {
+            "source": 12, 
+            "ew": 2, 
+            "target": 20
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 12, 
+            "ew": 5, 
+            "target": 24
+        }, 
+        {
+            "source": 13, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 13, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 13, 
+            "ew": 6, 
+            "target": 24
+        }, 
+        {
+            "source": 13, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 14, 
+            "ew": 1, 
+            "target": 20
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 14, 
+            "ew": 1, 
+            "target": 17
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 21
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 17, 
+            "ew": 30, 
+            "target": 20
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 17, 
+            "ew": 8, 
+            "target": 24
+        }, 
+        {
+            "source": 17, 
+            "ew": 1, 
+            "target": 26
+        }, 
+        {
+            "source": 19, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 20, 
+            "ew": 12, 
+            "target": 25
+        }, 
+        {
+            "source": 20, 
+            "ew": 100, 
+            "target": 24
+        }, 
+        {
+            "source": 20, 
+            "ew": 6, 
+            "target": 26
+        }, 
+        {
+            "source": 21, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 22, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 24, 
+            "ew": 2, 
+            "target": 26
+        }, 
+        {
+            "source": 24, 
+            "ew": 12, 
+            "target": 25
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 26
+        }
+    ], 
+    "multigraph": false
+}

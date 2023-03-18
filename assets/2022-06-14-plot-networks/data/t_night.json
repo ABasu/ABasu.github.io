@@ -1,0 +1,407 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "NA", 
+            "id": "ANTONIO", 
+            "g": "M", 
+            "nw": 31
+        }, 
+        {
+            "s": "NA", 
+            "id": "DUKE ORSINO", 
+            "g": "M", 
+            "nw": 64
+        }, 
+        {
+            "s": "NA", 
+            "id": "CURIO", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "SIR TOBY BELCH", 
+            "g": "M", 
+            "nw": 98
+        }, 
+        {
+            "s": "NA", 
+            "id": "SEBASTIAN", 
+            "g": "M", 
+            "nw": 36
+        }, 
+        {
+            "s": "NA", 
+            "id": "MALVOLIO", 
+            "g": "M", 
+            "nw": 81
+        }, 
+        {
+            "s": "NA", 
+            "id": "Clown", 
+            "g": "M", 
+            "nw": 91
+        }, 
+        {
+            "s": "NA", 
+            "id": "VALENTINE", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "Servant", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "FABIAN", 
+            "g": "M", 
+            "nw": 32
+        }, 
+        {
+            "s": "NA", 
+            "id": "OLIVIA", 
+            "g": "F", 
+            "nw": 91
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Officer", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "VIOLA", 
+            "g": "F", 
+            "nw": 100
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Officer", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Captain", 
+            "g": "M", 
+            "nw": 9
+        }, 
+        {
+            "s": "NA", 
+            "id": "SIR ANDREW", 
+            "g": "M", 
+            "nw": 43
+        }, 
+        {
+            "s": "NA", 
+            "id": "Priest", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "MARIA", 
+            "g": "F", 
+            "nw": 41
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 5, 
+            "target": 1
+        }, 
+        {
+            "source": 0, 
+            "ew": 1, 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 0, 
+            "ew": 1, 
+            "target": 11
+        }, 
+        {
+            "source": 0, 
+            "ew": 7, 
+            "target": 12
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 0, 
+            "ew": 13, 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "ew": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "ew": 32, 
+            "target": 6
+        }, 
+        {
+            "source": 1, 
+            "ew": 2, 
+            "target": 7
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 1, 
+            "ew": 18, 
+            "target": 10
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 11
+        }, 
+        {
+            "source": 1, 
+            "ew": 48, 
+            "target": 12
+        }, 
+        {
+            "source": 1, 
+            "ew": 2, 
+            "target": 2
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 16
+        }, 
+        {
+            "source": 1, 
+            "ew": 1, 
+            "target": 15
+        }, 
+        {
+            "source": 3, 
+            "ew": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "ew": 26, 
+            "target": 5
+        }, 
+        {
+            "source": 3, 
+            "ew": 17, 
+            "target": 6
+        }, 
+        {
+            "source": 3, 
+            "ew": 28, 
+            "target": 9
+        }, 
+        {
+            "source": 3, 
+            "ew": 13, 
+            "target": 10
+        }, 
+        {
+            "source": 3, 
+            "ew": 30, 
+            "target": 12
+        }, 
+        {
+            "source": 3, 
+            "ew": 39, 
+            "target": 17
+        }, 
+        {
+            "source": 3, 
+            "ew": 58, 
+            "target": 15
+        }, 
+        {
+            "source": 4, 
+            "ew": 5, 
+            "target": 6
+        }, 
+        {
+            "source": 4, 
+            "ew": 9, 
+            "target": 10
+        }, 
+        {
+            "source": 4, 
+            "ew": 9, 
+            "target": 12
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 5, 
+            "ew": 37, 
+            "target": 6
+        }, 
+        {
+            "source": 5, 
+            "ew": 19, 
+            "target": 9
+        }, 
+        {
+            "source": 5, 
+            "ew": 48, 
+            "target": 10
+        }, 
+        {
+            "source": 5, 
+            "ew": 14, 
+            "target": 12
+        }, 
+        {
+            "source": 5, 
+            "ew": 7, 
+            "target": 17
+        }, 
+        {
+            "source": 5, 
+            "ew": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 6, 
+            "ew": 1, 
+            "target": 9
+        }, 
+        {
+            "source": 6, 
+            "ew": 28, 
+            "target": 10
+        }, 
+        {
+            "source": 6, 
+            "ew": 25, 
+            "target": 12
+        }, 
+        {
+            "source": 6, 
+            "ew": 11, 
+            "target": 17
+        }, 
+        {
+            "source": 6, 
+            "ew": 8, 
+            "target": 15
+        }, 
+        {
+            "source": 7, 
+            "ew": 1, 
+            "target": 12
+        }, 
+        {
+            "source": 8, 
+            "ew": 1, 
+            "target": 10
+        }, 
+        {
+            "source": 9, 
+            "ew": 6, 
+            "target": 10
+        }, 
+        {
+            "source": 9, 
+            "ew": 3, 
+            "target": 12
+        }, 
+        {
+            "source": 9, 
+            "ew": 3, 
+            "target": 15
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 10, 
+            "ew": 1, 
+            "target": 16
+        }, 
+        {
+            "source": 10, 
+            "ew": 100, 
+            "target": 12
+        }, 
+        {
+            "source": 10, 
+            "ew": 6, 
+            "target": 17
+        }, 
+        {
+            "source": 10, 
+            "ew": 3, 
+            "target": 15
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 12, 
+            "ew": 14, 
+            "target": 14
+        }, 
+        {
+            "source": 12, 
+            "ew": 6, 
+            "target": 15
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 15, 
+            "ew": 7, 
+            "target": 17
+        }
+    ], 
+    "multigraph": false
+}

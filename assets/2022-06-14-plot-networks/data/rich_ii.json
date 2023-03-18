@@ -1,0 +1,630 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "NA", 
+            "id": "LORD BERKELEY", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "GREEN", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "Lord", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "DUCHESS OF YORK", 
+            "g": "F", 
+            "nw": 12
+        }, 
+        {
+            "s": "NA", 
+            "id": "KING RICHARD II", 
+            "g": "M", 
+            "nw": 100
+        }, 
+        {
+            "s": "NA", 
+            "id": "BISHOP OF CARLISLE", 
+            "g": "M", 
+            "nw": 8
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Herald", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Gardener", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "NA", 
+            "id": "NORTHUMBERLAND", 
+            "g": "M", 
+            "nw": 18
+        }, 
+        {
+            "s": "NA", 
+            "id": "DUCHESS", 
+            "g": "F", 
+            "nw": 7
+        }, 
+        {
+            "s": "NA", 
+            "id": "HENRY PERCY", 
+            "g": "M", 
+            "nw": 5
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Herald", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Keeper", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Lady", 
+            "g": "F", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "LORD ROSS", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "Abbot", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "LORD FITZWATER", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "6", 
+            "id": "Servant", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "Groom", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "EARL OF SALISBURY", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "JOHN OF GAUNT", 
+            "g": "M", 
+            "nw": 25
+        }, 
+        {
+            "s": "NA", 
+            "id": "SIR STEPHEN SCROOP", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "LORD WILLOUGHBY", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "HENRY BOLINGBROKE", 
+            "g": "M", 
+            "nw": 54
+        }, 
+        {
+            "s": "NA", 
+            "id": "All", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Lord Marshal", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "THOMAS MOWBRAY", 
+            "g": "M", 
+            "nw": 17
+        }, 
+        {
+            "s": "NA", 
+            "id": "DUKE OF SURREY", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "0", 
+            "id": "QUEEN", 
+            "g": "F", 
+            "nw": 15
+        }, 
+        {
+            "s": "NA", 
+            "id": "GARDENER", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "BAGOT", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "Captain", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "DUKE OF AUMERLE", 
+            "g": "M", 
+            "nw": 11
+        }, 
+        {
+            "s": "NA", 
+            "id": "DUKE OF YORK", 
+            "g": "M", 
+            "nw": 38
+        }, 
+        {
+            "s": "NA", 
+            "id": "BUSHY", 
+            "g": "M", 
+            "nw": 5
+        }, 
+        {
+            "s": "NA", 
+            "id": "EXTON", 
+            "g": "M", 
+            "nw": 2
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 8
+        }, 
+        {
+            "source": 0, 
+            "ew": 2, 
+            "target": 23
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 1, 
+            "ew": 5, 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 30
+        }, 
+        {
+            "source": 1, 
+            "ew": 1, 
+            "target": 28
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 3, 
+            "ew": 9, 
+            "target": 23
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 3, 
+            "ew": 21, 
+            "target": 33
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 4, 
+            "ew": 13, 
+            "target": 25
+        }, 
+        {
+            "source": 4, 
+            "ew": 9, 
+            "target": 18
+        }, 
+        {
+            "source": 4, 
+            "ew": 50, 
+            "target": 26
+        }, 
+        {
+            "source": 4, 
+            "ew": 21, 
+            "target": 28
+        }, 
+        {
+            "source": 4, 
+            "ew": 55, 
+            "target": 8
+        }, 
+        {
+            "source": 4, 
+            "ew": 5, 
+            "target": 12
+        }, 
+        {
+            "source": 4, 
+            "ew": 3, 
+            "target": 19
+        }, 
+        {
+            "source": 4, 
+            "ew": 24, 
+            "target": 21
+        }, 
+        {
+            "source": 4, 
+            "ew": 4, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "ew": 45, 
+            "target": 20
+        }, 
+        {
+            "source": 4, 
+            "ew": 100, 
+            "target": 23
+        }, 
+        {
+            "source": 4, 
+            "ew": 71, 
+            "target": 32
+        }, 
+        {
+            "source": 4, 
+            "ew": 54, 
+            "target": 33
+        }, 
+        {
+            "source": 4, 
+            "ew": 3, 
+            "target": 34
+        }, 
+        {
+            "source": 4, 
+            "ew": 2, 
+            "target": 35
+        }, 
+        {
+            "source": 5, 
+            "ew": 10, 
+            "target": 23
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 8
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 11
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 7, 
+            "ew": 2, 
+            "target": 28
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 28
+        }, 
+        {
+            "source": 8, 
+            "ew": 3, 
+            "target": 14
+        }, 
+        {
+            "source": 8, 
+            "ew": 2, 
+            "target": 10
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 8, 
+            "ew": 20, 
+            "target": 23
+        }, 
+        {
+            "source": 8, 
+            "ew": 4, 
+            "target": 33
+        }, 
+        {
+            "source": 9, 
+            "ew": 7, 
+            "target": 20
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 10, 
+            "ew": 7, 
+            "target": 23
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 13, 
+            "ew": 1, 
+            "target": 28
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 27
+        }, 
+        {
+            "source": 16, 
+            "ew": 1, 
+            "target": 23
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 17, 
+            "ew": 4, 
+            "target": 33
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 35
+        }, 
+        {
+            "source": 19, 
+            "ew": 0, 
+            "target": 31
+        }, 
+        {
+            "source": 19, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 20, 
+            "ew": 18, 
+            "target": 23
+        }, 
+        {
+            "source": 20, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 20, 
+            "ew": 14, 
+            "target": 33
+        }, 
+        {
+            "source": 21, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 22, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 22, 
+            "ew": 1, 
+            "target": 33
+        }, 
+        {
+            "source": 23, 
+            "ew": 3, 
+            "target": 25
+        }, 
+        {
+            "source": 23, 
+            "ew": 16, 
+            "target": 26
+        }, 
+        {
+            "source": 23, 
+            "ew": 35, 
+            "target": 33
+        }, 
+        {
+            "source": 23, 
+            "ew": 2, 
+            "target": 30
+        }, 
+        {
+            "source": 23, 
+            "ew": 5, 
+            "target": 32
+        }, 
+        {
+            "source": 23, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 23, 
+            "ew": 4, 
+            "target": 35
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 27, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 28, 
+            "ew": 0, 
+            "target": 29
+        }, 
+        {
+            "source": 28, 
+            "ew": 2, 
+            "target": 34
+        }, 
+        {
+            "source": 28, 
+            "ew": 1, 
+            "target": 33
+        }, 
+        {
+            "source": 30, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 30, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 32, 
+            "ew": 5, 
+            "target": 33
+        }, 
+        {
+            "source": 33, 
+            "ew": 0, 
+            "target": 34
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,716 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "NA", 
+            "id": "Second Fisherman", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "HELICANUS", 
+            "g": "M", 
+            "nw": 20
+        }, 
+        {
+            "s": "NA", 
+            "id": "CERIMON", 
+            "g": "M", 
+            "nw": 17
+        }, 
+        {
+            "s": "NA", 
+            "id": "DIONYZA", 
+            "g": "F", 
+            "nw": 14
+        }, 
+        {
+            "s": "NA", 
+            "id": "ANTIOCHUS", 
+            "g": "M", 
+            "nw": 11
+        }, 
+        {
+            "s": "NA", 
+            "id": "Messenger", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Third Fisherman", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "PHILEMON", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Knights", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "MARINA", 
+            "g": "F", 
+            "nw": 30
+        }, 
+        {
+            "s": "NA", 
+            "id": "Lord", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Lord", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "THAISA", 
+            "g": "F", 
+            "nw": 13
+        }, 
+        {
+            "s": "NA", 
+            "id": "ESCANES", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Lord", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "LEONINE", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "Bawd", 
+            "g": "M", 
+            "nw": 16
+        }, 
+        {
+            "s": "NA", 
+            "id": "Pandar", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Gentleman", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "Third Knight", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Tyrian Sailor", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Third Pirate", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "SIMONIDES", 
+            "g": "M", 
+            "nw": 25
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Knight", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Fisherman", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Sailor", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Knight", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Sailor", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Daughter", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "BOTH", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Servant", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Pirate", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "CLEON", 
+            "g": "M", 
+            "nw": 18
+        }, 
+        {
+            "s": "NA", 
+            "id": "THALIARD", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "LYSIMACHUS", 
+            "g": "M", 
+            "nw": 16
+        }, 
+        {
+            "s": "NA", 
+            "id": "KNIGHTS", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "PERICLES", 
+            "g": "M", 
+            "nw": 100
+        }, 
+        {
+            "s": "NA", 
+            "id": "Marshal", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "All", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "BOULT", 
+            "g": "M", 
+            "nw": 12
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Servant", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Pirate", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "DIANA", 
+            "g": "F", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Third Lord", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Gentleman", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "LYCHORIDA", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "GOWER", 
+            "g": "M", 
+            "nw": 14
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 0, 
+            "ew": 33, 
+            "target": 36
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 6
+        }, 
+        {
+            "source": 1, 
+            "ew": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 1, 
+            "ew": 1, 
+            "target": 38
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 20
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 1, 
+            "ew": 4, 
+            "target": 33
+        }, 
+        {
+            "source": 1, 
+            "ew": 11, 
+            "target": 34
+        }, 
+        {
+            "source": 1, 
+            "ew": 1, 
+            "target": 11
+        }, 
+        {
+            "source": 1, 
+            "ew": 74, 
+            "target": 36
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 40
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 30
+        }, 
+        {
+            "source": 2, 
+            "ew": 7, 
+            "target": 18
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 7
+        }, 
+        {
+            "source": 2, 
+            "ew": 4, 
+            "target": 44
+        }, 
+        {
+            "source": 2, 
+            "ew": 18, 
+            "target": 36
+        }, 
+        {
+            "source": 2, 
+            "ew": 4, 
+            "target": 12
+        }, 
+        {
+            "source": 3, 
+            "ew": 20, 
+            "target": 32
+        }, 
+        {
+            "source": 3, 
+            "ew": 7, 
+            "target": 9
+        }, 
+        {
+            "source": 3, 
+            "ew": 8, 
+            "target": 36
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 5
+        }, 
+        {
+            "source": 4, 
+            "ew": 74, 
+            "target": 36
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 28
+        }, 
+        {
+            "source": 4, 
+            "ew": 1, 
+            "target": 33
+        }, 
+        {
+            "source": 6, 
+            "ew": 1, 
+            "target": 24
+        }, 
+        {
+            "source": 6, 
+            "ew": 5, 
+            "target": 36
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 9, 
+            "ew": 13, 
+            "target": 39
+        }, 
+        {
+            "source": 9, 
+            "ew": 10, 
+            "target": 16
+        }, 
+        {
+            "source": 9, 
+            "ew": 10, 
+            "target": 15
+        }, 
+        {
+            "source": 9, 
+            "ew": 15, 
+            "target": 34
+        }, 
+        {
+            "source": 9, 
+            "ew": 100, 
+            "target": 36
+        }, 
+        {
+            "source": 10, 
+            "ew": 3, 
+            "target": 32
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 43
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 38
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 44
+        }, 
+        {
+            "source": 12, 
+            "ew": 45, 
+            "target": 36
+        }, 
+        {
+            "source": 12, 
+            "ew": 21, 
+            "target": 22
+        }, 
+        {
+            "source": 13, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 43
+        }, 
+        {
+            "source": 14, 
+            "ew": 1, 
+            "target": 22
+        }, 
+        {
+            "source": 14, 
+            "ew": 1, 
+            "target": 34
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 36
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 41
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 21
+        }, 
+        {
+            "source": 16, 
+            "ew": 3, 
+            "target": 34
+        }, 
+        {
+            "source": 16, 
+            "ew": 12, 
+            "target": 39
+        }, 
+        {
+            "source": 16, 
+            "ew": 4, 
+            "target": 17
+        }, 
+        {
+            "source": 17, 
+            "ew": 1, 
+            "target": 39
+        }, 
+        {
+            "source": 18, 
+            "ew": 0, 
+            "target": 44
+        }, 
+        {
+            "source": 18, 
+            "ew": 0, 
+            "target": 20
+        }, 
+        {
+            "source": 19, 
+            "ew": 1, 
+            "target": 22
+        }, 
+        {
+            "source": 20, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 21, 
+            "ew": 0, 
+            "target": 31
+        }, 
+        {
+            "source": 22, 
+            "ew": 0, 
+            "target": 29
+        }, 
+        {
+            "source": 22, 
+            "ew": 0, 
+            "target": 43
+        }, 
+        {
+            "source": 22, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 22, 
+            "ew": 1, 
+            "target": 35
+        }, 
+        {
+            "source": 22, 
+            "ew": 53, 
+            "target": 36
+        }, 
+        {
+            "source": 22, 
+            "ew": 0, 
+            "target": 37
+        }, 
+        {
+            "source": 22, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 23, 
+            "ew": 2, 
+            "target": 36
+        }, 
+        {
+            "source": 24, 
+            "ew": 24, 
+            "target": 36
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 27
+        }, 
+        {
+            "source": 25, 
+            "ew": 6, 
+            "target": 36
+        }, 
+        {
+            "source": 27, 
+            "ew": 6, 
+            "target": 36
+        }, 
+        {
+            "source": 28, 
+            "ew": 14, 
+            "target": 36
+        }, 
+        {
+            "source": 31, 
+            "ew": 0, 
+            "target": 41
+        }, 
+        {
+            "source": 32, 
+            "ew": 30, 
+            "target": 36
+        }, 
+        {
+            "source": 34, 
+            "ew": 3, 
+            "target": 39
+        }, 
+        {
+            "source": 34, 
+            "ew": 1, 
+            "target": 42
+        }, 
+        {
+            "source": 34, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 34, 
+            "ew": 19, 
+            "target": 36
+        }, 
+        {
+            "source": 36, 
+            "ew": 0, 
+            "target": 37
+        }, 
+        {
+            "source": 36, 
+            "ew": 2, 
+            "target": 38
+        }, 
+        {
+            "source": 36, 
+            "ew": 1, 
+            "target": 42
+        }, 
+        {
+            "source": 36, 
+            "ew": 23, 
+            "target": 45
+        }, 
+        {
+            "source": 36, 
+            "ew": 11, 
+            "target": 46
+        }, 
+        {
+            "source": 39, 
+            "ew": 0, 
+            "target": 41
+        }, 
+        {
+            "source": 40, 
+            "ew": 0, 
+            "target": 44
+        }
+    ], 
+    "multigraph": false
+}

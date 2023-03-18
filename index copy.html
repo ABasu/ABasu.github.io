@@ -18,7 +18,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
-    <div class="col-md-8">
+    <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
     <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
@@ -44,6 +44,10 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     </div>
     </div>
     </div>
+    </div>
+    
+    <div class="col-md-6">
+        
         <!-- second latest post -->
         {%- assign second_post = site.posts[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
@@ -124,11 +128,6 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     </small>
                 </div>
             </div>
-    </div>
-    
-    <div class="col-md-4">
-        
-        {% include sidebar-featured.html %}    
         
     </div>
     

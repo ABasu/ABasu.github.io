@@ -1,0 +1,703 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "NA", 
+            "id": "CAIUS LUCIUS", 
+            "g": "M", 
+            "nw": 17
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Lady", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "PHILARIO", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "NA", 
+            "id": "PISANIO", 
+            "g": "M", 
+            "nw": 36
+        }, 
+        {
+            "s": "NA", 
+            "id": "IACHIMO", 
+            "g": "M", 
+            "nw": 71
+        }, 
+        {
+            "s": "NA", 
+            "id": "Messenger", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Gaoler", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Lord", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Soothsayer", 
+            "g": "M", 
+            "nw": 7
+        }, 
+        {
+            "s": "NA", 
+            "id": "GUIDERIUS", 
+            "g": "M", 
+            "nw": 28
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Senator", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Lord", 
+            "g": "M", 
+            "nw": 7
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Lord", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Gaoler", 
+            "g": "M", 
+            "nw": 7
+        }, 
+        {
+            "s": "NA", 
+            "id": "POSTHUMUS LEONATUS", 
+            "g": "M", 
+            "nw": 68
+        }, 
+        {
+            "s": "NA", 
+            "id": "CYMBELINE", 
+            "g": "M", 
+            "nw": 48
+        }, 
+        {
+            "s": "NA", 
+            "id": "IMOGEN", 
+            "g": "F", 
+            "nw": 100
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Brother", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Gentleman", 
+            "g": "M", 
+            "nw": 11
+        }, 
+        {
+            "s": "NA", 
+            "id": "BELARIUS", 
+            "g": "M", 
+            "nw": 57
+        }, 
+        {
+            "s": "NA", 
+            "id": "Attendant", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "Lady", 
+            "g": "F", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "Frenchman", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "Posthumus Leonatus", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Brother", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "Sicilius Leonatus", 
+            "g": "M", 
+            "nw": 6
+        }, 
+        {
+            "s": "NA", 
+            "id": "Mother", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Captain", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Captain", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Tribune", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "All", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "CLOTEN", 
+            "g": "M", 
+            "nw": 44
+        }, 
+        {
+            "s": "NA", 
+            "id": "QUEEN", 
+            "g": "F", 
+            "nw": 28
+        }, 
+        {
+            "s": "NA", 
+            "id": "ARVIRAGUS", 
+            "g": "M", 
+            "nw": 23
+        }, 
+        {
+            "s": "NA", 
+            "id": "Jupiter", 
+            "g": "M", 
+            "nw": 3
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Gentleman", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "CORNELIUS", 
+            "g": "M", 
+            "nw": 12
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Senator", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Captain", 
+            "g": "M", 
+            "nw": 1
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 1, 
+            "target": 31
+        }, 
+        {
+            "source": 0, 
+            "ew": 11, 
+            "target": 15
+        }, 
+        {
+            "source": 0, 
+            "ew": 13, 
+            "target": 16
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 0, 
+            "ew": 1, 
+            "target": 8
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 27
+        }, 
+        {
+            "source": 1, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 1, 
+            "ew": 1, 
+            "target": 15
+        }, 
+        {
+            "source": 2, 
+            "ew": 9, 
+            "target": 14
+        }, 
+        {
+            "source": 2, 
+            "ew": 4, 
+            "target": 4
+        }, 
+        {
+            "source": 2, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 3, 
+            "ew": 1, 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "ew": 10, 
+            "target": 15
+        }, 
+        {
+            "source": 3, 
+            "ew": 94, 
+            "target": 16
+        }, 
+        {
+            "source": 3, 
+            "ew": 2, 
+            "target": 32
+        }, 
+        {
+            "source": 3, 
+            "ew": 1, 
+            "target": 14
+        }, 
+        {
+            "source": 3, 
+            "ew": 15, 
+            "target": 31
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 4, 
+            "ew": 76, 
+            "target": 14
+        }, 
+        {
+            "source": 4, 
+            "ew": 20, 
+            "target": 15
+        }, 
+        {
+            "source": 4, 
+            "ew": 100, 
+            "target": 16
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 4, 
+            "ew": 3, 
+            "target": 22
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 14
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 31
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 15
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 6, 
+            "ew": 4, 
+            "target": 14
+        }, 
+        {
+            "source": 7, 
+            "ew": 13, 
+            "target": 14
+        }, 
+        {
+            "source": 8, 
+            "ew": 4, 
+            "target": 15
+        }, 
+        {
+            "source": 9, 
+            "ew": 6, 
+            "target": 31
+        }, 
+        {
+            "source": 9, 
+            "ew": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 9, 
+            "ew": 5, 
+            "target": 16
+        }, 
+        {
+            "source": 9, 
+            "ew": 16, 
+            "target": 33
+        }, 
+        {
+            "source": 9, 
+            "ew": 33, 
+            "target": 19
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 36
+        }, 
+        {
+            "source": 10, 
+            "ew": 0, 
+            "target": 29
+        }, 
+        {
+            "source": 11, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 11, 
+            "ew": 7, 
+            "target": 31
+        }, 
+        {
+            "source": 12, 
+            "ew": 4, 
+            "target": 31
+        }, 
+        {
+            "source": 12, 
+            "ew": 2, 
+            "target": 15
+        }, 
+        {
+            "source": 13, 
+            "ew": 8, 
+            "target": 14
+        }, 
+        {
+            "source": 13, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 14, 
+            "ew": 5, 
+            "target": 15
+        }, 
+        {
+            "source": 14, 
+            "ew": 14, 
+            "target": 16
+        }, 
+        {
+            "source": 14, 
+            "ew": 3, 
+            "target": 32
+        }, 
+        {
+            "source": 14, 
+            "ew": 1, 
+            "target": 33
+        }, 
+        {
+            "source": 14, 
+            "ew": 2, 
+            "target": 25
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 28
+        }, 
+        {
+            "source": 14, 
+            "ew": 2, 
+            "target": 22
+        }, 
+        {
+            "source": 14, 
+            "ew": 0, 
+            "target": 38
+        }, 
+        {
+            "source": 15, 
+            "ew": 22, 
+            "target": 16
+        }, 
+        {
+            "source": 15, 
+            "ew": 7, 
+            "target": 32
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 33
+        }, 
+        {
+            "source": 15, 
+            "ew": 10, 
+            "target": 31
+        }, 
+        {
+            "source": 15, 
+            "ew": 23, 
+            "target": 19
+        }, 
+        {
+            "source": 15, 
+            "ew": 0, 
+            "target": 20
+        }, 
+        {
+            "source": 15, 
+            "ew": 9, 
+            "target": 36
+        }, 
+        {
+            "source": 16, 
+            "ew": 5, 
+            "target": 32
+        }, 
+        {
+            "source": 16, 
+            "ew": 1, 
+            "target": 36
+        }, 
+        {
+            "source": 16, 
+            "ew": 6, 
+            "target": 33
+        }, 
+        {
+            "source": 16, 
+            "ew": 34, 
+            "target": 19
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 27
+        }, 
+        {
+            "source": 16, 
+            "ew": 3, 
+            "target": 21
+        }, 
+        {
+            "source": 16, 
+            "ew": 25, 
+            "target": 31
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 18, 
+            "ew": 2, 
+            "target": 35
+        }, 
+        {
+            "source": 18, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 19, 
+            "ew": 1, 
+            "target": 31
+        }, 
+        {
+            "source": 19, 
+            "ew": 27, 
+            "target": 33
+        }, 
+        {
+            "source": 20, 
+            "ew": 0, 
+            "target": 32
+        }, 
+        {
+            "source": 21, 
+            "ew": 1, 
+            "target": 31
+        }, 
+        {
+            "source": 23, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 24, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 24, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 24, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 30
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 34
+        }, 
+        {
+            "source": 25, 
+            "ew": 0, 
+            "target": 26
+        }, 
+        {
+            "source": 28, 
+            "ew": 0, 
+            "target": 38
+        }, 
+        {
+            "source": 29, 
+            "ew": 0, 
+            "target": 37
+        }, 
+        {
+            "source": 31, 
+            "ew": 0, 
+            "target": 31
+        }, 
+        {
+            "source": 31, 
+            "ew": 10, 
+            "target": 32
+        }, 
+        {
+            "source": 32, 
+            "ew": 8, 
+            "target": 36
+        }
+    ], 
+    "multigraph": false
+}

@@ -1,0 +1,595 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "s": "NA", 
+            "id": "Gentleman", 
+            "g": "M", 
+            "nw": 11
+        }, 
+        {
+            "s": "NA", 
+            "id": "Doctor", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "Old Man", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "Second Servant", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "CORNWALL", 
+            "g": "M", 
+            "nw": 14
+        }, 
+        {
+            "s": "NA", 
+            "id": "Messenger", 
+            "g": "M", 
+            "nw": 2
+        }, 
+        {
+            "s": "NA", 
+            "id": "Fool", 
+            "g": "M", 
+            "nw": 30
+        }, 
+        {
+            "s": "NA", 
+            "id": "ALBANY", 
+            "g": "M", 
+            "nw": 21
+        }, 
+        {
+            "s": "NA", 
+            "id": "KING OF FRANCE", 
+            "g": "M", 
+            "nw": 4
+        }, 
+        {
+            "s": "NA", 
+            "id": "CORDELIA", 
+            "g": "F", 
+            "nw": 15
+        }, 
+        {
+            "s": "NA", 
+            "id": "BURGUNDY", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "CURAN", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "EDMUND", 
+            "g": "M", 
+            "nw": 41
+        }, 
+        {
+            "s": "NA", 
+            "id": "Third Servant", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "KING LEAR", 
+            "g": "M", 
+            "nw": 100
+        }, 
+        {
+            "s": "NA", 
+            "id": "Knight", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "EDGAR", 
+            "g": "M", 
+            "nw": 52
+        }, 
+        {
+            "s": "NA", 
+            "id": "Herald", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "GONERIL", 
+            "g": "F", 
+            "nw": 26
+        }, 
+        {
+            "s": "NA", 
+            "id": "OSWALD", 
+            "g": "M", 
+            "nw": 10
+        }, 
+        {
+            "s": "NA", 
+            "id": "REGAN", 
+            "g": "F", 
+            "nw": 25
+        }, 
+        {
+            "s": "NA", 
+            "id": "First Servant", 
+            "g": "M", 
+            "nw": 1
+        }, 
+        {
+            "s": "NA", 
+            "id": "LEAR", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "KENT", 
+            "g": "M", 
+            "nw": 49
+        }, 
+        {
+            "s": "NA", 
+            "id": "Captain", 
+            "g": "M", 
+            "nw": 0
+        }, 
+        {
+            "s": "NA", 
+            "id": "GLOUCESTER", 
+            "g": "M", 
+            "nw": 45
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 7
+        }, 
+        {
+            "source": 0, 
+            "ew": 8, 
+            "target": 14
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 1
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 0, 
+            "ew": 2, 
+            "target": 16
+        }, 
+        {
+            "source": 0, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 0, 
+            "ew": 19, 
+            "target": 23
+        }, 
+        {
+            "source": 1, 
+            "ew": 2, 
+            "target": 14
+        }, 
+        {
+            "source": 1, 
+            "ew": 1, 
+            "target": 9
+        }, 
+        {
+            "source": 2, 
+            "ew": 1, 
+            "target": 16
+        }, 
+        {
+            "source": 2, 
+            "ew": 4, 
+            "target": 25
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 13
+        }, 
+        {
+            "source": 3, 
+            "ew": 0, 
+            "target": 4
+        }, 
+        {
+            "source": 4, 
+            "ew": 5, 
+            "target": 14
+        }, 
+        {
+            "source": 4, 
+            "ew": 0, 
+            "target": 21
+        }, 
+        {
+            "source": 4, 
+            "ew": 1, 
+            "target": 18
+        }, 
+        {
+            "source": 4, 
+            "ew": 3, 
+            "target": 12
+        }, 
+        {
+            "source": 4, 
+            "ew": 9, 
+            "target": 23
+        }, 
+        {
+            "source": 4, 
+            "ew": 1, 
+            "target": 19
+        }, 
+        {
+            "source": 4, 
+            "ew": 4, 
+            "target": 20
+        }, 
+        {
+            "source": 4, 
+            "ew": 6, 
+            "target": 25
+        }, 
+        {
+            "source": 5, 
+            "ew": 1, 
+            "target": 7
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 9
+        }, 
+        {
+            "source": 5, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 6, 
+            "ew": 4, 
+            "target": 18
+        }, 
+        {
+            "source": 6, 
+            "ew": 72, 
+            "target": 14
+        }, 
+        {
+            "source": 6, 
+            "ew": 5, 
+            "target": 16
+        }, 
+        {
+            "source": 6, 
+            "ew": 13, 
+            "target": 23
+        }, 
+        {
+            "source": 6, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 7, 
+            "ew": 20, 
+            "target": 14
+        }, 
+        {
+            "source": 7, 
+            "ew": 12, 
+            "target": 16
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 7, 
+            "ew": 11, 
+            "target": 18
+        }, 
+        {
+            "source": 7, 
+            "ew": 11, 
+            "target": 12
+        }, 
+        {
+            "source": 7, 
+            "ew": 3, 
+            "target": 23
+        }, 
+        {
+            "source": 7, 
+            "ew": 2, 
+            "target": 20
+        }, 
+        {
+            "source": 7, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 8, 
+            "ew": 6, 
+            "target": 14
+        }, 
+        {
+            "source": 8, 
+            "ew": 1, 
+            "target": 9
+        }, 
+        {
+            "source": 8, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 9, 
+            "ew": 25, 
+            "target": 14
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 10
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 12
+        }, 
+        {
+            "source": 9, 
+            "ew": 4, 
+            "target": 23
+        }, 
+        {
+            "source": 9, 
+            "ew": 0, 
+            "target": 20
+        }, 
+        {
+            "source": 10, 
+            "ew": 7, 
+            "target": 14
+        }, 
+        {
+            "source": 11, 
+            "ew": 2, 
+            "target": 12
+        }, 
+        {
+            "source": 12, 
+            "ew": 6, 
+            "target": 14
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 12, 
+            "ew": 2, 
+            "target": 18
+        }, 
+        {
+            "source": 12, 
+            "ew": 23, 
+            "target": 16
+        }, 
+        {
+            "source": 12, 
+            "ew": 1, 
+            "target": 23
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 19
+        }, 
+        {
+            "source": 12, 
+            "ew": 4, 
+            "target": 20
+        }, 
+        {
+            "source": 12, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 12, 
+            "ew": 44, 
+            "target": 25
+        }, 
+        {
+            "source": 14, 
+            "ew": 7, 
+            "target": 15
+        }, 
+        {
+            "source": 14, 
+            "ew": 41, 
+            "target": 16
+        }, 
+        {
+            "source": 14, 
+            "ew": 21, 
+            "target": 18
+        }, 
+        {
+            "source": 14, 
+            "ew": 100, 
+            "target": 23
+        }, 
+        {
+            "source": 14, 
+            "ew": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 14, 
+            "ew": 39, 
+            "target": 20
+        }, 
+        {
+            "source": 14, 
+            "ew": 1, 
+            "target": 24
+        }, 
+        {
+            "source": 14, 
+            "ew": 53, 
+            "target": 25
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 18
+        }, 
+        {
+            "source": 16, 
+            "ew": 5, 
+            "target": 23
+        }, 
+        {
+            "source": 16, 
+            "ew": 2, 
+            "target": 19
+        }, 
+        {
+            "source": 16, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 16, 
+            "ew": 55, 
+            "target": 25
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 17
+        }, 
+        {
+            "source": 17, 
+            "ew": 0, 
+            "target": 24
+        }, 
+        {
+            "source": 18, 
+            "ew": 5, 
+            "target": 19
+        }, 
+        {
+            "source": 18, 
+            "ew": 8, 
+            "target": 20
+        }, 
+        {
+            "source": 18, 
+            "ew": 0, 
+            "target": 25
+        }, 
+        {
+            "source": 19, 
+            "ew": 7, 
+            "target": 23
+        }, 
+        {
+            "source": 19, 
+            "ew": 3, 
+            "target": 20
+        }, 
+        {
+            "source": 19, 
+            "ew": 1, 
+            "target": 25
+        }, 
+        {
+            "source": 20, 
+            "ew": 0, 
+            "target": 21
+        }, 
+        {
+            "source": 20, 
+            "ew": 0, 
+            "target": 22
+        }, 
+        {
+            "source": 20, 
+            "ew": 0, 
+            "target": 23
+        }, 
+        {
+            "source": 20, 
+            "ew": 8, 
+            "target": 25
+        }, 
+        {
+            "source": 23, 
+            "ew": 18, 
+            "target": 25
+        }
+    ], 
+    "multigraph": false
+}
