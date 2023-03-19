@@ -6022,7 +6022,7 @@ button.bg-lightblue:focus {
 
 .ml-3,
 .mx-3 {
-  margin-left: 1rem !important; }
+  margin-left: 0rem !important; }
 
 .m-4 {
   margin: 1.5rem !important; }
@@ -6037,7 +6037,7 @@ button.bg-lightblue:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 0rem !important; }
 
 .ml-4,
 .mx-4 {
