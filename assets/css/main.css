@@ -67,7 +67,7 @@ body {
   font-family: "Segoe UI", "Helvetica Neue", "Arial";
   font-size: 1rem;
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 1.2;
   color: #212529;
   text-align: left;
   background-color: #fff; }
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 0rem; }
+  margin-bottom: .4rem; }
 
 abbr[title],
 abbr[data-original-title] {
@@ -6094,7 +6094,7 @@ button.bg-lightblue:focus {
 
 .pb-0,
 .py-0 {
-  padding-bottom: 0 !important; }
+  padding-bottom: 10 !important; }
 
 .pl-0,
 .px-0 {
