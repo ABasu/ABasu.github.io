@@ -22,7 +22,7 @@ description: "Data Science, Data Visualization, Machine Learining and more"
 				</a>
 				<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
 					<h2 class="h4 font-weight-bold"> <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a> </h2>
-					 <p class="excerpt">{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}</p>
+					 <p class="excerpt">{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 200}}</p>
 					<div>
 						<small class="d-block text-muted"> In <span class="catlist"> {% for category in latest_post.categories %} <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">,</span>{% endfor %}</span>. {{ latest_post.date | date: '%b %d, %Y' }}.</small>
 					</div>
@@ -36,7 +36,7 @@ description: "Data Science, Data Visualization, Machine Learining and more"
 				</a>
 				<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
 					<h2 class="h4 font-weight-bold"> <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a> </h2>
-					 <p class="excerpt">{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}</p>
+					 <p class="excerpt">{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 200 }}</p>
 					<div>
 						<small class="d-block text-muted"> In <span class="catlist"> {% for category in latest_post.categories %} <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">,</span>{% endfor %}</span>. {{ latest_post.date | date: '%b %d, %Y' }}.</small>
 					</div>
@@ -50,7 +50,7 @@ description: "Data Science, Data Visualization, Machine Learining and more"
 				</a>
 				<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
 					<h2 class="h4 font-weight-bold"> <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a> </h2>
-					 <p class="excerpt">{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}</p>
+					 <p class="excerpt">{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 200}}</p>
 					<div>
 						<small class="d-block text-muted"> In <span class="catlist"> {% for category in latest_post.categories %} <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">,</span>{% endfor %}</span>. {{ latest_post.date | date: '%b %d, %Y' }}.</small>
 					</div>

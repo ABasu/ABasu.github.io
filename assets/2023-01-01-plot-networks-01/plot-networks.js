@@ -1,4 +1,4 @@
-var root = "/assets/2022-06-14-plot-networks/data/"
+var root = "/assets/2023-01-01-plot-networks-01/data/"
 var json;
 var scale;
 var slider;
@@ -73,7 +73,7 @@ d3.csv(root + "play-index.csv", function(csv){
 		.text(function(d) {return d.title;});
 
 	// Set the first play to be 1Hiv 	
-	document.getElementById('plays').selectedIndex = 8;
+	document.getElementById('plays').selectedIndex = 21;
 	loadNewPlay();
 });
 
