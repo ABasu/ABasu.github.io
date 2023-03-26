@@ -6,3 +6,11 @@ bundle exec jekyll serve  # start server first time
 jekyll serve   # start server
 
 
+Each post should have:
+layout:
+title:
+categories:
+image:
+tags: [sticky|featured]
+excerpt:
+author:
