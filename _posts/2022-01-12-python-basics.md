@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python Programming: The Absolute Essentials"
-image: "assets/2022-10-12-python-basics/img001.jpg"
+image: "assets/2022-01-12-python-basics/img001.jpg"
 excerpt: "The minimum amount of Python you should know to get you started."
 categories: [python, programming]
 tags: [sticky]
@@ -975,7 +975,7 @@ plt.show()
 
 
     
-![lineplot](/assets/2022-10-12-python-basics/output_70_0.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![lineplot](/assets/2022-01-12-python-basics/output_70_0.png){:style="display:block; margin-left:auto; margin-right:auto"}
     
 
 
@@ -991,7 +991,7 @@ for i, l in enumerate(labels):
 
 
     
-![scatterplot](/assets/2022-10-12-python-basics/output_71_0.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![scatterplot](/assets/2022-01-12-python-basics/output_71_0.png){:style="display:block; margin-left:auto; margin-right:auto"}
     
 
 

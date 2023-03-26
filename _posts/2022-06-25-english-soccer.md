@@ -4,7 +4,7 @@ title: "Visualizing English Soccer: 1888-2020"
 image: "assets/2022-06-25-english-soccer/img001.jpg"
 excerpt: "An anecdotal interpretation of top flight English soccer history."
 categories: [dataviz]
-tags: []
+tags: [featured]
 ---
 ![English Soccer](/assets/2022-06-25-english-soccer/english_football_ppg.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
