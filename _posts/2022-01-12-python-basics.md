@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Python Programming: The Absolute Essentials"
+title: "Python Programming: The Bare Essentials"
 image: "assets/2022-01-12-python-basics/img001.jpg"
-excerpt: "The minimum amount of Python you should know to get you started."
+excerpt: "The minimum amount of Python you need to know to get started."
 categories: [python, programming]
-tags: [sticky]
+tags: [featured]
 ---
 I created these Python notes to get students started on the absolute basics of Python within a 4 week time period. 
 
-One of the great joys of teaching NLP/text-analysis/corpus-linguistics in a humanities setting is the wide range of students you tend to recruit – from those who come into the class with fairly advanced coding chops to people who have deep critical reading skills and domain knowledge but almost no technical expertise. This makes for great cross-disciplinary conversations. I absolutely love to observe the dynamic that forms over the semester – maybe a humanities grad student learning coding skills from a computer-science sophomore and, in turn, helping the undergrads formulate sophisticated, interesting problems and projects to leverage their budding data-skills. 
+One of the great joys of teaching NLP/text-analysis/corpus-linguistics in a humanities setting is the wide range of students you tend to recruit – from CS majors who come into the class with fairly advanced coding chops, to people who have deep critical reading skills and domain knowledge but almost no technical expertise. This makes for great cross-disciplinary conversations. I absolutely love to observe the dynamic that forms over the semester – maybe a humanities grad student learning coding skills from a computer-science sophomore and, in turn, helping the undergrads formulate sophisticated, interesting problems and projects to leverage their budding data-skills. 
 
 But managing and catering to this astonishing range of skills presents challenges. One gets to spend very little time on the nuts and bolts fundamentals before being thrown into the deep end, as it were, of language processing, statistical analysis, even tidbits of machine learning. Partly, this is a handicap to overcome and perhaps not the "right way" to teach programming - students often end up doing comparatively advanced stuff while their fundamentals are still quite shaky. But on the other hand, I believe it is the most practical way to engage humanities students many of whom take these classes to figure out whether 1) they have an aptitude for programming, and 2) whether computational methods might be relevant to their research concerns. They can’t afford to spend multiple semesters learning programming the right way before they get to advanced string processing and text-analysis and then to finally figure out whether they can use it in their work. They need to get to the interesting stuff and, if its relevant, they'll stick around and hone up their fundamentals. Many have gone on to engage with computing deeply in their research resulting in papers, dissertation chapters etc that marry quantitative perspectives and tools with qualitative questions.
 
