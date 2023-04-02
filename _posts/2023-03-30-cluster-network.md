@@ -6,7 +6,7 @@ excerpt: "An algorithm that can learn complex shapes without vector representati
 categories: [machine learning, networks]
 tags: []
 ---
-The algorithm I want to outline in this post was developed for string clustering although it can be used for a wide range of analogous problems as well. The algorithm has several distinctive features: it does not need us to specify the number of clusters present in the dataset upfront; it does not require samples to have vector representations as long as we have some way to compute "connectedness" between them; and does not make any assumptions about clusters being convex or isotropic distributions and can detect clusters of complex shapes.
+The algorithm I want to outline in this post was developed for string clustering although it can be used for a wide range of analogous problems as well. The algorithm has several distinctive features: it does not need us to specify the number of clusters present in the dataset upfront; it does not require samples to have vector representations as long as we have some way to compute "connectedness" or distance between them; and does not make any assumptions about clusters being convex or having isotropic distributions and can detect clusters of complex shapes.
 
 ![Cluster](/assets/2023-03-30-cluster-network/img001.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
