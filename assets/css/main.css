@@ -427,7 +427,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #ff0266;
+  color: gray;
   word-break: break-word; }
   a > code {
     color: inherit; }

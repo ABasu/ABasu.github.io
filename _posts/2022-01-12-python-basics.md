@@ -4,7 +4,7 @@ title: "Python Programming: The Bare Essentials"
 image: "assets/2022-01-12-python-basics/img001.jpg"
 excerpt: "The minimum amount of Python you need to know to get started."
 categories: [python, programming]
-tags: [featured]
+tags: [featured, sticky]
 ---
 I created these Python notes to get students started on the absolute basics of Python within a 4 week time period. 
 

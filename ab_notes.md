@@ -14,3 +14,8 @@ image:
 tags: [sticky|featured]
 excerpt:
 author:
+
+
+{% figure caption:"Le logo de **Jekyll** et son clin d'oeil à Robert Louis Stevenson" %}
+    ![Le logo de Jekyll](/assets/images/2018-08-07-jekyll-logo.png)
+{% endfigure %}
